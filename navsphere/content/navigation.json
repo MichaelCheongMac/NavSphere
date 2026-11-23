@@ -1480,9 +1480,17 @@
       "id": "34",
       "title": "40 Work",
       "icon": "",
-      "description": "來自 Linkwarden「40 Work」（13 條）",
+      "description": "來自 Linkwarden「40 Work」（14 條）",
       "enabled": true,
       "items": [
+        {
+          "id": "34_12285",
+          "title": "HERMES SYNC TEST（暫存，驗完即刪）",
+          "href": "https://example.com/hermes-sync-test",
+          "description": "測試 Linkwarden→NavSphere 每週同步寫入路徑",
+          "icon": "https://www.google.com/s2/favicons?domain=example.com&sz=64",
+          "enabled": true
+        },
         {
           "id": "34_2467",
           "title": "首頁 | 澳門旅遊大學",
