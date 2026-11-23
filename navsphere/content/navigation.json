@@ -1,897 +1,1720 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "id": "42",
+      "title": "40 AI",
+      "icon": "",
+      "description": "來自 Linkwarden「40 AI」（32 條）",
+      "enabled": true,
       "items": [
         {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "id": "42_2625",
+          "title": "A.82 群星（真發燒 - 粵唱粵經典 - 3CD 精選金曲54首）Wav Form…",
+          "href": "https://archive.org/details/cantonese-classics-selection-3cd",
+          "description": "群星（真發燒 - 粵唱粵經典 - 3CD 精選金曲54首）Wav Format專輯名稱：真發燒 - 粵唱粵經典 3CD...",
+          "icon": "https://www.google.com/s2/favicons?domain=archive.org&sz=64",
           "enabled": true
         },
         {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
-          "icon": "/assets/images/logos/analytics.ico",
+          "id": "42_2624",
+          "title": "Online radio - Pop - download free mp3 - M…",
+          "href": "https://mp3.pm/radio/country/",
+          "description": "Country Hits by Nashville Edge - WLWK-3 Radio Country Live Catfish Ben on 96.5 Wild Countr…",
+          "icon": "https://www.google.com/s2/favicons?domain=mp3.pm&sz=64",
           "enabled": true
         },
         {
-          "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
+          "id": "42_2623",
+          "title": "Free Music : Download & Streaming : Live M…",
+          "href": "https://archive.org/details/etree",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=archive.org&sz=64",
           "enabled": true
         },
         {
-          "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
+          "id": "42_2622",
+          "title": "Download Beyond - 真的爱你(粤语) №6034165 - down…",
+          "href": "https://181537-beyond.mp3.pm/song/6034165-/",
+          "description": "Beyond – 真的爱你(粤语). Artist: Beyond, Song: 真的爱你(粤语), Duration: 04:38, Size: 7.22 MB, Bitrate…",
+          "icon": "https://www.google.com/s2/favicons?domain=181537-beyond.mp3.pm&sz=64",
           "enabled": true
         },
         {
-          "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
+          "id": "42_2548",
+          "title": "腾讯云 - 控制台",
+          "href": "https://console.cloud.tencent.com/aiart/resource",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=console.cloud.tencent.com&sz=64",
           "enabled": true
         },
         {
-          "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.ico",
+          "id": "42_2547",
+          "title": "TurboScribe：將音訊和視頻轉換為文字",
+          "href": "https://turboscribe.ai/zh-TW/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=turboscribe.ai&sz=64",
           "enabled": true
         },
         {
-          "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
+          "id": "42_2546",
+          "title": "免费文本转语音 TTS 语音合成在线 - AI语音生成器",
+          "href": "https://freetext2speech.com/zh/",
+          "description": "使用先进AI将文本转换为自然语音。142种语言中322多种自然声音，完全免费无需注册。适合内容、教育和无障碍访问。",
+          "icon": "https://www.google.com/s2/favicons?domain=freetext2speech.com&sz=64",
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
+          "id": "42_2545",
+          "title": "Minimaxai 的 minimax-m2.7 型號 | NVIDIA NIM",
+          "href": "https://build.nvidia.com/minimaxai/minimax-m2.7",
+          "description": "MiniMax M2.7 is a 230B-parameter text-to-text AI model excelling in coding, reasoning, and…",
+          "icon": "https://www.google.com/s2/favicons?domain=build.nvidia.com&sz=64",
           "enabled": true
         },
         {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
+          "id": "42_2544",
+          "title": "英伟达突然宣布：MiniMax免费用了！附最全白嫖攻略",
+          "href": "https://mp.weixin.qq.com/s?chksm=f987b1f4cef038e2cb4afaf7b74891f7f1717afc9959f1c03595187833978bab950ba8dec235&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1776689462_40&req_id=1776691521780919&mid=2247487110&sn=95f6f0537547379bc42118fa4210518e&idx=1&__biz=MzUxODU2NDM4MQ%3D%3D&scene=169&subscene=200&sessionid=1776689461&flutter_pos=359&clicktime=1776691803&enterid=1776691803&finder_biz_enter_id=5&jumppath=20020_1776691726288%2CHalfScreenTransparentActivity_1776691777297%2C20020_1776691778983%2C50094_1776691780584&jumppathdepth=4&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=8218659-zh_CN-zip&fasttmpl_flag=0&realreporttime=1776691804005&devicetype=android-35&version=2800455a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_HK&session_us=gh_bea45953c8d7&countrycode=CN&exportkey=n_ChQIAhIQyuuUjWvM37LPSWjVIeqLhBLxAQIE97dBBAEAAAAAAPoBK69b7wIAAAAOpnltbLcz9gKNyK89dVj0e1dw4WF66Y4ECmB7FeLDzaP9wkF78GUB5YjlH0EEQfwrKaRJBa435EprIalIYephIfZSdPHfWFcsqx0qIqj8BhZ5SfbeQUwtyfyreckFNKI7q%2FP727slA5CErBLJ0%2BJqSo9t0oZyuExrLHIjbt0XN8JfgrCphkRYLApBCJmqqju0%2FjxyxMFBeNmCmVM7CA2EcPZOMRVrihU64NRDf1Myg2pgtniKCpfX6oQI8t%2FewG4bE35cVyOQtsYr6l9IIY0j9Bqs1CBwl0Mz2lE%3D&pass_ticket=3w%2BsCQ4kHU7CQt6kEDEXBrKXavxagz7II0azgUb%2Fl%2FXuQxMWfP%2FUsjMzcVJihQCZ&wx_header=3",
+          "description": "🔥 不用充值、分币不花，无限调用——英伟达这个福利，比Claude Pro香多了一个让整个AI圈震动的消息！",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
           "enabled": true
         },
         {
-          "id": "item-1754218579319",
-          "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
+          "id": "42_2543",
+          "title": "MiniMax",
+          "href": "https://www.minimaxi.com/",
+          "description": "MiniMax是全球领先的通用人工智能科技公司，致力于\"与所有人共创智能\"，自主研发了一系列多模态通用大模型，并面向全球推出一系列AI原生产品，已服务逾3亿名用户",
+          "icon": "https://www.google.com/s2/favicons?domain=www.minimaxi.com&sz=64",
+          "enabled": true
         },
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
+          "id": "42_2542",
+          "title": "Learn Your Way",
+          "href": "https://learnyourway.withgoogle.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=learnyourway.withgoogle.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2541",
+          "title": "Perplexity",
+          "href": "https://www.perplexity.ai/?login-source=floatingSignup&login-new=false",
+          "description": "Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-ti…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2540",
+          "title": "CherryIN",
+          "href": "https://open.cherryin.ai/console/personal",
+          "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+          "icon": "https://www.google.com/s2/favicons?domain=open.cherryin.ai&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2539",
+          "title": "免费人工智能博客作家 | 在几秒钟内生成高质量的博客",
+          "href": "https://simplified.com/zh/ai-blog-writer",
+          "description": "简化的免费人工智能博客作家可以在几秒钟内生成高质量的 SEO 友好的博客副本。 适合作家、初创公司、机构和自由职业者的完美工具。",
+          "icon": "https://www.google.com/s2/favicons?domain=simplified.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2538",
+          "title": "騰訊元寶 - 輕鬆工作 多點生活",
+          "href": "https://yuanbao.tencent.com/chat/naQivTmsDa",
+          "description": "元宝是腾讯推出的全能 AI 助手，已接入最新的混元 Hy4 preview 模型，Agent 能力全面升级，综合多方信源深度推理，复杂任务更可靠，回答更专业易读；多种风格写作轻松驾…",
+          "icon": "https://www.google.com/s2/favicons?domain=yuanbao.tencent.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2537",
+          "title": "OpenRouter",
+          "href": "https://openrouter.ai/",
+          "description": "The unified interface for every model. Find the best models & prices for your prompts",
+          "icon": "https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2536",
+          "title": "AIGC官网 - AIGC创作平台 AIGC软件",
+          "href": "https://aigc.izzi.cn/",
+          "description": "AIGC官网（https://aigc.izzi.cn/）——专注于人工智能资讯、问答、教程、AI排行榜及多种AI工具服务。提供 AI创作、AI写作、AI绘画、AI设计、AI语音生…",
+          "icon": "https://www.google.com/s2/favicons?domain=aigc.izzi.cn&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2535",
+          "title": "資訊主頁 – My First Project – Google Cloud 控制台",
+          "href": "https://console.cloud.google.com/home/dashboard?project=polished-leaf-245103&hl=zh-TW&pli=1",
+          "description": "Google Cloud Platform 可讓您使用與 Google 相同的基礎架構，建置、部署及調整各種應用程式、網站和服務。",
+          "icon": "https://www.google.com/s2/favicons?domain=console.cloud.google.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2534",
+          "title": "SiliconFlow",
+          "href": "https://cloud.siliconflow.com/me/models",
+          "description": "SiliconFlow Login",
+          "icon": "https://www.google.com/s2/favicons?domain=cloud.siliconflow.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2533",
+          "title": "即梦AI - 一站式AI创作平台",
+          "href": "https://jimeng.jianying.com/ai-tool/home/",
+          "description": "即梦AI是一个AI创作平台，可激发艺术创意、提升绘画和视频创作体验。您可以利用AI智能，将想象变为现实。即梦AI支持文字绘图、文字生成视频和图片生成视频，并提供创作灵感。让即梦AI…",
+          "icon": "https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2532",
+          "title": "腾讯混元大模型简介_腾讯混元大模型购买指南_腾讯混元大模型操作指南-腾讯云",
+          "href": "https://cloud.tencent.com/document/product/1729",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=cloud.tencent.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2531",
+          "title": "Get API key | Google AI Studio",
+          "href": "https://aistudio.google.com/app/apikey",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2530",
+          "title": "Explore",
+          "href": "https://www.midjourney.com/explore?tab=top_week",
+          "description": "Feed of the latest Midjourney creations.",
+          "icon": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2529",
+          "title": "令牌查询",
+          "href": "https://chaxun.huaapi.asia/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=chaxun.huaapi.asia&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2528",
+          "title": "ima.copilot-腾讯AI工作台",
+          "href": "https://ima.qq.com/",
+          "description": "ima是以知识库为基础的AI知识管家，提供“搜-读-写”一站式体验",
+          "icon": "https://www.google.com/s2/favicons?domain=ima.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2527",
+          "title": "Gemini Next Chat",
+          "href": "https://gemini.u14.app/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=gemini.u14.app&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2526",
+          "title": "MiniMax Audio | Free Text To Speech Online…",
+          "href": "https://www.minimax.io/audio/text-to-speech",
+          "description": "Experience MiniMax Audio, the best free text-to-speech (TTS) platform. Transform text into…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.minimax.io&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2525",
+          "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+          "href": "https://ai-bot.cn/",
+          "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天等A…",
+          "icon": "https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2524",
+          "title": "Google Gemini",
+          "href": "https://gemini.google.com/app",
+          "description": "Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and mo…",
+          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2523",
+          "title": "Dreamina",
+          "href": "https://dreamina.capcut.com/ai-tool/home",
+          "description": "Turn photos into talking avatars with Dreamina's AI avatar generator and lip sync, or use…",
+          "icon": "https://www.google.com/s2/favicons?domain=dreamina.capcut.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2522",
+          "title": "FlowUs AI",
+          "href": "https://flowus.cn/chat",
+          "description": "使用 Flowus 构建您的知识平台，助您轻松创作与发布",
+          "icon": "https://www.google.com/s2/favicons?domain=flowus.cn&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "42_2431",
+          "title": "💻 动手学 Ollama 🦙",
+          "href": "https://datawhalechina.github.io/handy-ollama/#/",
+          "description": "Description",
+          "icon": "https://www.google.com/s2/favicons?domain=datawhalechina.github.io&sz=64",
           "enabled": true
         }
       ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
+      "subCategories": []
     },
     {
-      "id": "9",
-      "title": "AI工具包",
-      "icon": "Brain",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "AI助手",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "9_1",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "OpenAI开发的人工智能聊天机器人程序。",
-              "icon": "/assets/images/logos/chatgpt.png",
-              "enabled": true
-            },
-            {
-              "id": "9_2",
-              "title": "Claude",
-              "href": "https://claude.ai/",
-              "description": "Anthropic开发的AI助手，擅长分析和创作。",
-              "icon": "/assets/images/logos/claude.png",
-              "enabled": true
-            },
-            {
-              "id": "9_3",
-              "title": "Gemini",
-              "href": "https://gemini.google.com/",
-              "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
-              "icon": "/assets/images/logos/gemini.svg",
-              "enabled": true
-            },
-            {
-              "id": "9_4",
-              "title": "Poe",
-              "href": "https://poe.com/",
-              "description": "Poe一款由Quora开发的应用程序。该应用程序集成了多种生成式人工智能，可使用户能够便利切换，比较和使用市场上主流的大型语言模型。",
-              "icon": "/assets/images/logos/poe.svg",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "perplexity",
-              "href": "https://www.perplexity.ai/",
-              "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
-              "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
-          "title": "生产力工具",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736418296509",
-              "title": "Napkin",
-              "href": "https://www.napkin.ai/",
-              "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
-              "icon": "/assets/img_1736418335098.png",
-              "enabled": true
-            },
-            {
-              "id": "1736911347619",
-              "title": "gamma",
-              "href": "https://gamma.app/",
-              "description": "AI生成PPT工具",
-              "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "21bf96f3-acb0-4e28-aaa8-2759ac55d278",
-          "title": "MCP Server",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "1735265493940",
-      "title": "开发者工具包",
-      "icon": "Box",
-      "description": "开发者工具，工具包",
+      "id": "55",
+      "title": "40 Blog",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Blog」（12 條）",
       "enabled": true,
-      "items": [],
-      "subCategories": [
+      "items": [
         {
-          "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
-          "description": "站点图标",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1750831228317",
-              "title": "lucide",
-              "href": "https://lucide.dev/icons/house",
-              "description": "Beautiful &\nconsistent icons",
-              "icon": "/assets/img_1750831362985.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
-          "title": "UI框架",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735265532154",
-              "title": "shadcn ",
-              "href": "https://ui.shadcn.com/",
-              "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
-              "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            },
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
-          "title": "托管平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735612561958",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
-            {
-              "id": "1735612588184",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
-            {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
-              "enabled": true
-            },
-            {
-              "id": "1755225929754",
-              "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
-              "href": "https://edgeone.ai/zh",
-              "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
-              "icon": "/assets/favicon_1755225933031.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2040df1a-cbcd-40fa-a85c-151b5735fbd2",
-          "title": "画图工具",
-          "icon": "Book",
-          "description": "架构图，流程图",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736921962115",
-              "title": "draw.io",
-              "href": "https://www.drawio.com/",
-              "description": "可以绘制架构图、流程图，软件周期内的其它设计图。为团队绘制安全第一的图表。\n将您的存储带到我们的在线工具，或使用桌面应用程序在本地保存。",
-              "icon": "/assets/img_1736922080517.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922183993",
-              "title": "ProccessOn",
-              "href": "https://www.processon.com/",
-              "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
-              "icon": "/assets/img_1736922262462.png",
-              "enabled": true
-            },
-            {
-              "id": "1736922380901",
-              "title": "Excalidraw",
-              "href": "https://excalidraw.com/",
-              "description": "Excalidraw是免费的在线协作画图工具。\n\n手写风格的草图非常好看；\n漂亮的图库。",
-              "icon": "/assets/img_1736922499401.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
-          "title": "AI编程工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1737529639971",
-              "title": "Cursor",
-              "href": "https://www.cursor.com/",
-              "description": "The AI Code Editor Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
-              "icon": "/assets/img_1737529713172.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529752867",
-              "title": "Windsurf",
-              "href": "https://codeium.com/",
-              "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
-              "icon": "/assets/img_1737529843741.png",
-              "enabled": true
-            },
-            {
-              "id": "1737529887245",
-              "title": "GitHub Copilot",
-              "href": "https://github.com/features/copilot",
-              "description": "The AI editor for everyone",
-              "icon": "/assets/img_1737530043708.png",
-              "enabled": true
-            },
-            {
-              "id": "1737530051856",
-              "title": "Trae",
-              "href": "https://www.trae.ai/",
-              "description": "字节新出的 Cursor 竞品 Trae ，可以用 claude3.5，限时免费\n，它的 Builder 相当于 Cursor 的 Composer 和 Agent 合体，建议默认使用 Builder。",
-              "icon": "/assets/img_1737530421138.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662613676",
-              "title": "Kiro",
-              "href": "https://kiro.dev/",
-              "description": "The AI IDE for prototype to production\n",
-              "icon": "/assets/img_1752662633580.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662747639",
-              "title": "Claude code",
-              "href": "https://www.anthropic.com/claude-code",
-              "description": "Unleash Claude’s raw power directly in your terminal. Search million-line codebases instantly. Turn hours-long workflows into a single command. Your tools. Your workflow. Your codebase, evolving at thought speed.",
-              "icon": "/assets/img_1752662771107.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754295485849",
-              "title": "namecheap",
-              "href": "https://www.namecheap.com/",
-              "description": "Register domain names at Namecheap. Buy cheap domain names and enjoy 24/7 support. With over 18 million domains under management, you know you’re in good hands.",
-              "icon": "/assets/favicon_1754295511938.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1735433560958",
-      "title": "自媒体工具包",
-      "icon": "Video",
-      "description": "自媒体工具包",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "2fe4e538-79bf-4f73-b65c-63e00f94c42c",
-          "title": "国内平台",
-          "icon": "FileText",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912858570",
-              "title": "视频号助手",
-              "href": "https://channels.weixin.qq.com",
-              "description": "视频号助手，视频号创作站点",
-              "icon": "/assets/img_1736912962033.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
-          "title": "国外平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1755168164096",
-              "title": "Reddit - The heart of the internet",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
-              "icon": "/assets/favicon_1755168414977.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2d33f756-959e-4171-9e0e-b616bcd274be",
-          "title": "公众号排版",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754791068961",
-              "title": "NeuraPress Pro Markdown Editor",
-              "href": "https://mp.leti.ltd/",
-              "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
-              "icon": "/assets/favicon_1754791082337.svg",
-              "enabled": true
-            },
-            {
-              "id": "1754791158725",
-              "title": "NeuraPress",
-              "href": "https://md.leti.ltd/",
-              "description": "Markdown 转微信公众号内容神器",
-              "icon": "/assets/favicon_1754791168416.svg",
-              "enabled": true
-            },
-            {
-              "id": "1735456910129",
-              "title": "WeChat Markdown Editor",
-              "href": "https://doocs.github.io/md/",
-              "description": "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
-              "icon": "/assets/img_1735433660193.png",
-              "enabled": true
-            },
-            {
-              "id": "1737961258110",
-              "title": "mdnice",
-              "href": "https://editor.mdnice.com/",
-              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
-              "icon": "/assets/img_1737961266055.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
-          "title": "录屏工具",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
-            {
-              "id": "1753396049185",
-              "title": "Cursorful",
-              "href": "https://cursorful.com/",
-              "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
-              "icon": "/assets/img_1753396105178.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "0ed6d8b1-effe-4535-8cde-60ec38f9c96c",
-          "title": "AI 检测工具",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754573112532",
-              "title": "腾讯朱雀AI文本检测",
-              "href": "https://matrix.tencent.com/ai-detect/",
-              "description": "腾讯朱雀AI文本检测基于多种先进的人工智能模型，构造数百万级别的数据进行训练，能够识别出人类和AI的书写模式。该系统不仅具备优秀的英文检测能力，在处理中文数据方面表现尤为出色。\n",
-              "icon": "/assets/img_1754573290976.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "title": "常用工具",
-      "icon": "Laptop",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "3",
-          "title": "在线工具",
-          "href": "#在线工具",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
-            {
-              "id": "3_2",
-              "title": "JSON Editor Online",
-              "href": "https://jsoneditoronline.org/",
-              "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
-              "icon": "/assets/images/logos/json.png",
-              "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
-              "id": "3_4",
-              "title": "SQL格式化",
-              "href": "https://www.dpriver.com/pp/sqlformat.htm",
-              "description": "在线美化SQL语句的工具，格式化方便阅读",
-              "icon": "/assets/images/logos/sqlformat.ico",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            }
-          ],
+          "id": "55_2650",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
           "enabled": true
         },
         {
-          "id": "4",
-          "title": "图形创意",
-          "href": "#图形创意",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
-              "enabled": true
-            },
-            {
-              "id": "4_2",
-              "title": "Affinity Designer",
-              "href": "https://affinity.serif.com/",
-              "description": "专业创意软件",
-              "icon": "/assets/images/logos/AffinityDesigner.png",
-              "enabled": true
-            },
-            {
-              "id": "4_3",
-              "title": "Illustrator",
-              "href": "https://www.adobe.com/cn/products/illustrator/",
-              "description": "矢量图形和插图。",
-              "icon": "/assets/images/logos/Illustrator.png",
-              "enabled": true
-            }
-          ],
+          "id": "55_2649",
+          "title": "飞书｜字节跳动旗下AI工作平台，深度集成豆包大模型 - 飞书官网",
+          "href": "https://www.feishu.cn/",
+          "description": "飞书是字节跳动旗下 AI 工作平台，提供一站式协同办公、组织管理、业务提效工具和深入企业场景的 AI 能力，让 AI 真能用、真落地。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.feishu.cn&sz=64",
           "enabled": true
         },
         {
-          "id": "5",
-          "title": "界面设计",
-          "href": "#界面设计",
-          "icon": "Folder",
-          "description": "",
-          "items": [
-            {
-              "id": "5_1",
-              "title": "Figma",
-              "href": "https://www.figma.com/",
-              "description": "在线UI设计工具",
-              "icon": "/assets/images/logos/figma.png",
-              "enabled": true
-            }
-          ],
+          "id": "55_2648",
+          "title": "免费人工智能博客作家 | 在几秒钟内生成高质量的博客",
+          "href": "https://simplified.com/zh/ai-blog-writer",
+          "description": "简化的免费人工智能博客作家可以在几秒钟内生成高质量的 SEO 友好的博客副本。 适合作家、初创公司、机构和自由职业者的完美工具。",
+          "icon": "https://www.google.com/s2/favicons?domain=simplified.com&sz=64",
           "enabled": true
         },
         {
-          "id": "6",
-          "title": "交互动效",
-          "href": "#交互动效",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "6_1",
-              "title": "Adobe After Effects CC",
-              "href": "https://www.adobe.com/cn/products/aftereffects/",
-              "description": "电影般的视觉效果和动态图形。",
-              "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
-              "enabled": true
-            },
-            {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
-              "icon": "/assets/images/logos/principle.png",
-              "enabled": true
-            },
-            {
-              "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.png",
-              "enabled": true
-            },
-            {
-              "id": "6_4",
-              "title": "framer",
-              "href": "https://framer.com/",
-              "description": "Design everything from detailed icons to high-fidelity interactions—all in one place.",
-              "icon": "/assets/images/logos/framer.png",
-              "enabled": true
-            }
-          ],
+          "id": "55_2647",
+          "title": "Facebook",
+          "href": "https://www.facebook.com/profile.php?id=61575230540288",
+          "description": "安娜 senhorita Ana. 1,600 位追蹤者 · 6 人正在談論這個. 優質烘焙食品禮盒及手信品牌 | 澳門製造 2025 全新上市 📍香港零售點 : City'sup…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=64",
           "enabled": true
         },
         {
-          "id": "7",
-          "title": "在线配色",
-          "href": "#在线配色",
-          "icon": "Book",
+          "id": "55_2646",
+          "title": "Blogger：文章",
+          "href": "https://www.blogger.com/blog/posts/6776445317744773933",
+          "description": "Weblog publishing tool from Google, for sharing text, photos and video.",
+          "icon": "https://www.google.com/s2/favicons?domain=www.blogger.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2645",
+          "title": "澳門生活日誌",
+          "href": "https://macaurecorder.blogspot.com/",
           "description": "",
-          "items": [
-            {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.png",
-              "enabled": true
-            }
-          ],
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2644",
+          "title": "澳門生活日誌",
+          "href": "https://macaurecorder.blogspot.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2643",
+          "title": "小红书 - 你的生活兴趣社区",
+          "href": "https://www.xiaohongshu.com/explore",
+          "description": "在小红书，分享照片和视频，分享购物心得，记录生活故事，和最会生活的人做朋友。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.xiaohongshu.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2642",
+          "title": "Blogger：文章",
+          "href": "https://www.blogger.com/blog/posts/6776445317744773933",
+          "description": "Weblog publishing tool from Google, for sharing text, photos and video.",
+          "icon": "https://www.google.com/s2/favicons?domain=www.blogger.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2641",
+          "title": "Articles | Folo",
+          "href": "https://app.follow.is/timeline/view-0/all/pending",
+          "description": "Folo organizes content into one timeline, keeping you updated on what matters, noise-free.…",
+          "icon": "https://www.google.com/s2/favicons?domain=app.follow.is&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_2640",
+          "title": "CWC Macau Life Blog",
+          "href": "https://michaelcheong.notion.site/CWC-Macau-Life-Blog-25c0c31e48be80328996c1ad2a3a4937",
+          "description": "Made in Notion, the connected workspace where AI agents and teams organize docs, projects…",
+          "icon": "https://www.google.com/s2/favicons?domain=michaelcheong.notion.site&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "55_157",
+          "title": "Blogger：文章",
+          "href": "https://www.blogger.com/blog/posts/6776445317744773933?hl=zh-TW&tab=jj",
+          "description": "使用 Google 的網誌發布工具與人分享文字、相片和影片。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.blogger.com&sz=64",
           "enabled": true
         }
       ],
-      "description": "",
-      "enabled": true
+      "subCategories": []
     },
     {
-      "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
-      "items": [],
-      "subCategories": [
+      "id": "47",
+      "title": "40 Blog 文章",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Blog 文章」（50 條）",
+      "enabled": true,
+      "items": [
         {
-          "id": "8_1",
-          "title": "图标素材",
-          "href": "#图标素材",
-          "icon": "",
+          "id": "47_2865",
+          "title": "2025.06.07 中山小欖鎮高鐵站遊記",
+          "href": "https://macaurecorder.blogspot.com/2025/06/20250607.html",
           "description": "",
-          "items": [
-            {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_3",
-              "title": "iconmonstr",
-              "href": "https://iconmonstr.com/",
-              "description": "Free simple icons for your next project",
-              "icon": "/assets/images/logos/iconmonstr.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_4",
-              "title": "Icon Archive",
-              "href": "http://www.iconarchive.com/",
-              "description": "Search 590,912 free icons",
-              "icon": "/assets/images/logos/iconarchive.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_5",
-              "title": "FindIcons",
-              "href": "https://findicons.com/",
-              "description": "Search through 300,000 free icons",
-              "icon": "/assets/images/logos/FindIcons.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_6",
-              "title": "IcoMoonApp",
-              "href": "https://icomoon.io/app/",
-              "description": "Icon Font, SVG, PDF & PNG Generator",
-              "icon": "/assets/images/logos/IcoMoonApp.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_8",
-              "title": "flaticon",
-              "href": "https://www.flaticon.com/",
-              "description": "634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.",
-              "icon": "/assets/images/logos/flaticon.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_9",
-              "title": "UICloud",
-              "href": "http://ui-cloud.com/",
-              "description": "The largest user interface design database in the world.",
-              "icon": "/assets/images/logos/UICloud.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_10",
-              "title": "Material icons",
-              "href": "https://material.io/icons/",
-              "description": "Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.",
-              "icon": "/assets/images/logos/Materialicons.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_11",
-              "title": "Font Awesome Icon",
-              "href": "fontawesomeicon",
-              "description": "The complete set of 675 icons in Font Awesome",
-              "icon": "/assets/images/logos/fontawesomeicon.png",
-              "enabled": true
-            },
-            {
-              "id": "8_1_13",
-              "title": "Simpleline Icons",
-              "href": "http://simplelineicons.com/",
-              "description": "Simple line Icons pack",
-              "icon": "/assets/images/logos/simplelineicons.png",
-              "enabled": true
-            }
-          ]
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
         },
         {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
+          "id": "47_2864",
+          "title": "一圖秒懂：酒是怎麼「變」出來的？",
+          "href": "https://macaurecorder.blogspot.com/2025/11/blog-post.html",
           "description": "",
-          "items": [
-            {
-              "id": "8_2_1",
-              "title": "Iconsfeed",
-              "href": "http://www.iconsfeed.com/",
-              "description": "iOS icons gallery",
-              "icon": "/assets/images/logos/iconsfeed.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_2",
-              "title": "iOS Icon Gallery",
-              "href": "http://iosicongallery.com/",
-              "description": "Showcasing beautiful icon designs from the iOS App Store",
-              "icon": "/assets/images/logos/iosicongallery.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_3",
-              "title": "World Vector Logo",
-              "href": "https://worldvectorlogo.com/",
-              "description": "Brand logos free to download",
-              "icon": "/assets/images/logos/worldvectorlogo.png",
-              "enabled": true
-            },
-            {
-              "id": "8_2_4",
-              "title": "Instant Logo Search",
-              "href": "http://instantlogosearch.com/",
-              "description": "Search & download thousands of logos instantly",
-              "icon": "/assets/images/logos/InstantLogoSearch.png",
-              "enabled": true
-            }
-          ]
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
         },
         {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
+          "id": "47_2863",
+          "title": "2025.06.17 探索世界級美味——Ana安娜牛油曲奇 & 葡式腰果曲奇",
+          "href": "https://macaurecorder.blogspot.com/2025/06/20250617-ana.html",
           "description": "",
-          "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
-              "enabled": true
-            },
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.png",
-              "enabled": true
-            }
-          ]
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2862",
+          "title": "2025.08.20 生產工場如何做好蛋糕外賣平台出貨準備？",
+          "href": "https://macaurecorder.blogspot.com/2025/08/blog-post.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2861",
+          "title": "https://macaurecorder.blogspot.com/2025/07/0-4-dehydration-thermal-shock-0-4c-cold.html",
+          "href": "https://macaurecorder.blogspot.com/2025/07/0-4-dehydration-thermal-shock-0-4c-cold.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2860",
+          "title": "扁牛角酥製作秘笈：深入解析並解決成品酸味問題",
+          "href": "https://macaurecorder.blogspot.com/2025/11/blog-post_21.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2859",
+          "title": "https://macaurecorder.blogspot.com/2025/07/0-4-osmosis-syneresis-over-whipped.html",
+          "href": "https://macaurecorder.blogspot.com/2025/07/0-4-osmosis-syneresis-over-whipped.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2858",
+          "title": "https://macaurecorder.blogspot.com/2025/11/1.html",
+          "href": "https://macaurecorder.blogspot.com/2025/11/1.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2857",
+          "title": "世界上唯一的聖誕水果果凍蛋糕🎄 / Christmas Fruits Jelly C…",
+          "href": "https://macaurecorder.blogspot.com/2025/11/christmas-fruits-jelly-cake-amazing-cake.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2856",
+          "title": "高品質聖誕餅乾",
+          "href": "https://macaurecorder.blogspot.com/2025/11/blog-post_30.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2855",
+          "title": "【夏日輕食】芒果蝦仁青瓜沙律 — 清爽零油煙，15分鐘搞掂！",
+          "href": "https://macaurecorder.blogspot.com/2026/07/15.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2854",
+          "title": "可愛的聖誕老人熊和最好的聖誕餅乾食譜",
+          "href": "https://macaurecorder.blogspot.com/2025/11/blog-post_5.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2853",
+          "title": "【夏日輕食】麻醬雞絲冷麵 — 清爽開胃，15分鐘搞掂！",
+          "href": "https://macaurecorder.blogspot.com/2026/07/15_0163160455.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2852",
+          "title": "我把「下班前的崩潰」交給了 AI，從此每天準時走人 🤖✨",
+          "href": "https://macaurecorder.blogspot.com/2026/08/ai.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2851",
+          "title": "🍰【辦公室小故事】20 塊蛋糕與神秘的「99% 魔咒」📊✨",
+          "href": "https://macaurecorder.blogspot.com/2026/08/20-99.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2850",
+          "title": "🌞 夏日輕食之選：越式鮮蝦米紙卷 — 清爽無油煙，15分鐘開飯！",
+          "href": "https://macaurecorder.blogspot.com/2026/07/15_0655116386.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2849",
+          "title": "炎夏消暑輕食｜麻醬涼拌青瓜雞絲粉皮：30分鐘搞掂，清涼開胃",
+          "href": "https://macaurecorder.blogspot.com/2026/08/30.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2848",
+          "title": "大熱天時消暑神器！冬瓜粒湯飯：30分鐘搞掂嘅家常輕食",
+          "href": "https://macaurecorder.blogspot.com/2026/08/30_0695187877.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2847",
+          "title": "冬瓜薏米消暑湯 — 夏末祛濕靚湯，簡單一煲搞掂",
+          "href": "https://macaurecorder.blogspot.com/2026/08/blog-post.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2846",
+          "title": "發酵的科學原理：溫度、酵母與時間——天氣熱點解麵團更難控制？",
+          "href": "https://macaurecorder.blogspot.com/2026/09/blog-post.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2845",
+          "title": "秋分當造｜南瓜鮮菇燴滑豆腐：20分鐘搞掂嘅秋日暖胃輕食",
+          "href": "https://macaurecorder.blogspot.com/2026/09/20.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2844",
+          "title": "秋分前後潤燥靚湯｜雪梨無花果百合煲瘦肉：一煲搞掂，清甜潤喉",
+          "href": "https://macaurecorder.blogspot.com/2026/09/blog-post_18.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2843",
+          "title": "中秋前後當造｜柚子蜜烤雞胸溫沙律：酸甜開胃嘅秋日潤燥輕食",
+          "href": "https://macaurecorder.blogspot.com/2026/09/blog-post_11.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2842",
+          "title": "初秋潤燥輕食｜蓮藕木耳炒荷蘭豆：15分鐘搞掂嘅爽脆家常小炒",
+          "href": "https://macaurecorder.blogspot.com/2026/09/15.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2841",
+          "title": "湯種麵包的科學：點解加咗「燙麵」可以令麵包放三日都咁軟？",
+          "href": "https://macaurecorder.blogspot.com/2026/10/blog-post.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2750",
+          "title": "20241202 右邊近鏡操作",
+          "href": "https://www.youtube.com/shorts/51P9ST4vx8Q",
+          "description": "20241202 右邊近鏡操作",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2749",
+          "title": "20241202 蛋卷機近鏡2邊操作",
+          "href": "https://www.youtube.com/shorts/Qq9iXriY6RU",
+          "description": "20241202 蛋卷機近鏡2邊操作",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2748",
+          "title": "2025 01 31 急凍蛋液開封後使用情況",
+          "href": "https://www.youtube.com/shorts/3TSB3YfRc6k",
+          "description": "急凍蛋液開封後使用情況 #cake",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2747",
+          "title": "20241202 右邊原料成形",
+          "href": "https://www.youtube.com/watch?v=sMMiJB06Smw",
+          "description": "20241202 右邊原料成形",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2746",
+          "title": "Michael Cheong",
+          "href": "https://www.youtube.com/watch?v=dSQFKjIsQvE",
+          "description": "讓鄰居報警的荷蘭鍋麵包 - 面粉·水·盐·酵母-手工制作面包和比萨的基础一、 烘焙百分比與精確計量 (Baker's Math)烘焙理論的基礎始於烘焙百分比。這是一種以「麵粉總重量…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2745",
+          "title": "2025年8月21日",
+          "href": "https://www.youtube.com/shorts/B10bW4FWFsI",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2744",
+          "title": "1樓E室負18度位置 20250614 135838",
+          "href": "https://www.youtube.com/shorts/B6tOAP6gRBQ",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2743",
+          "title": "20260520 AP爐",
+          "href": "https://www.youtube.com/watch?v=FEWHfdm6YeE",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2742",
+          "title": "20260524 MD2爐",
+          "href": "https://www.youtube.com/watch?v=SoPBV4Z2oT0",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2741",
+          "title": "20260524 APG爐",
+          "href": "https://www.youtube.com/watch?v=-9zLM1-qJC0",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2740",
+          "title": "2025年8月21日",
+          "href": "https://www.youtube.com/watch?v=qRtHtkf2scg",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2739",
+          "title": "20260520 JSP爐",
+          "href": "https://www.youtube.com/watch?v=gBZSF7fxJQ8",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2738",
+          "title": "打印機安裝",
+          "href": "https://www.youtube.com/watch?v=RRV4SO30H0U",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2737",
+          "title": "20260524 HBG爐",
+          "href": "https://www.youtube.com/watch?v=nzAyl6upINk",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2736",
+          "title": "消防門頂滲漏水",
+          "href": "https://www.youtube.com/watch?v=aL_gFAHEszU",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2607",
+          "title": "世界上唯一的聖誕水果果凍蛋糕🎄 / Christmas Fruits Jelly C…",
+          "href": "https://macaurecorder.blogspot.com/2025/11/christmas-fruits-jelly-cake-amazing-cake.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2606",
+          "title": "https://macaurecorder.blogspot.com/2025/11/1.html",
+          "href": "https://macaurecorder.blogspot.com/2025/11/1.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2605",
+          "title": "1樓E室負18度位置 20250614 135838",
+          "href": "https://www.youtube.com/shorts/B6tOAP6gRBQ",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2604",
+          "title": "https://macaurecorder.blogspot.com/2025/05/1_5.html",
+          "href": "https://macaurecorder.blogspot.com/2025/05/1_5.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2603",
+          "title": "澳門人在內地將物業轉名",
+          "href": "https://macaurecorder.blogspot.com/2025/05/1_26.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2602",
+          "title": "急凍面團 發酵管理",
+          "href": "https://macaurecorder.blogspot.com/2025/05/1_37.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2601",
+          "title": "https://macaurecorder.blogspot.com/2025/05/1.html",
+          "href": "https://macaurecorder.blogspot.com/2025/05/1.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2600",
+          "title": "澳門生活日誌 - YouTube",
+          "href": "https://www.youtube.com/@MacauRecorder",
+          "description": "有關生活在澳門的點滴",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2599",
+          "title": "https://macaurecorder.blogspot.com/2025/04/1.html",
+          "href": "https://macaurecorder.blogspot.com/2025/04/1.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=macaurecorder.blogspot.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "47_2598",
+          "title": "2025年8月21日",
+          "href": "https://www.youtube.com/shorts/B10bW4FWFsI",
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friend…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
         }
-      ]
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "41",
+      "title": "40 Finance",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Finance」（9 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "41_2521",
+          "title": "根植澳門 服務澳門 | 中國銀行澳門分行",
+          "href": "https://www.bankofchina.com/mo/",
+          "description": "中國銀行澳門分行是澳門最具規模的銀行和金融企業，有29間支行，1千多名員工，主流業務在銀行本地業務總額中約占三分之一。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.bankofchina.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2520",
+          "title": "Firstrade – 美股網路券商，股票，期權，共同基金，IRA退休賬戶",
+          "href": "https://www.firstrade.com/zh-TW",
+          "description": "美股券商Firstrade提供多元化投資產品及研究工具，從今天開始享受零佣金交易。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.firstrade.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2519",
+          "title": "工银澳门",
+          "href": "https://www.icbc.com.mo/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.icbc.com.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2518",
+          "title": "螞蟻銀行(澳门)",
+          "href": "https://www.antbank.mo/about",
+          "description": "螞蟻銀行（澳門）提供安全可靠的數字銀行服務，開戶快速、理財便捷，移動支付與即時转账高效，盡享數字理財新體驗。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.antbank.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2517",
+          "title": "Safe payments, PayPal China",
+          "href": "https://www.paypal.com/c2/webapps/mpp/home?locale.x=zh_C2?utm_source=Google&utm_medium=cpc&utm_campaign=A_PP_CN_ZH_AA_JO_MS_PD_WB_SB_AW_DI_PR_NA_GG_ACQ-AO-GOOGLESEM-BR&utm_content=CN_Google_%E5%93%81%E7%89%8C_Exact&utm_term=PayPal&kid=p75289861523&gad_source=1&gclid=Cj0KCQjwhYS_BhD2ARIsAJTMMQZWdGdzB88cugiiZquUHhOsG7lRAsgadmpDJ_H3VGcAIkcrsNCtnhoaAs1KEALw_wcB&gclsrc=aw.ds",
+          "description": "使用PayPal安全地收付款、在线购物和管理付款。快速、简单、全球信赖。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.paypal.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2516",
+          "title": "滙豐個人網上理財 - 香港滙豐",
+          "href": "https://www.hsbc.com.hk/zh-hk/ways-to-bank/internet/",
+          "description": "使用滙豐個人網上理財，每天24小時快捷、方便、輕鬆管理您的戶口。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.hsbc.com.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2515",
+          "title": "Wise國際賬戶 | 資金無分國界 | Wise澳門",
+          "href": "https://wise.com/",
+          "description": "150+ countries, 40 currencies, one account. Save when you send, spend and manage your mone…",
+          "icon": "https://www.google.com/s2/favicons?domain=wise.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2514",
+          "title": "螞蟻銀行（香港）",
+          "href": "https://www.antbank.hk/home?lang=zh_hk",
+          "description": "淘寶無上限豁免手續費兼領立減券及享運費減免，讓你淘得更盡興！首次申請額外賞HKD 100禮券，立即開通！",
+          "icon": "https://www.google.com/s2/favicons?domain=www.antbank.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "41_2432",
+          "title": "Envelope budgeting | Actual Budget",
+          "href": "https://actualbudget.org/docs/getting-started/envelope-budgeting",
+          "description": "Introduction",
+          "icon": "https://www.google.com/s2/favicons?domain=actualbudget.org&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "26",
+      "title": "40 Learning",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Learning」（11 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "26_2288",
+          "title": "AI 語音輸入 Wispr Flow 教學，打字寫作效率瞬間提升 4 倍 | 閱讀前…",
+          "href": "https://readingoutpost.com/wispr-flow/",
+          "description": "這篇文章談為什麼我徹底愛上 Wispr Flow 這款 AI 語音輸入。我可以毫不誇張地說，它徹底顛覆了我對語音輸入的所有想像，這感覺就像是從撥接上網的時代，一瞬間跳躍到了光纖網路…",
+          "icon": "https://www.google.com/s2/favicons?domain=readingoutpost.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2287",
+          "title": "Learn Your Way",
+          "href": "https://learnyourway.withgoogle.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=learnyourway.withgoogle.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2286",
+          "title": "The Cozy English - YouTube",
+          "href": "https://www.youtube.com/@TheCozy-English",
+          "description": "Nơi ba mẹ lưu giữ hình ảnh của Jennie Bông cho đỡ tốn dung lượng điện thoại!",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2285",
+          "title": "西式烹饪工艺_中国大学MOOC(慕课)",
+          "href": "https://www.icourse163.org/learn/BUU-1206447831?tid=1475971485#/learn/announce",
+          "description": "西式烹饪工艺,spContent=本课程讲授西餐烹调理论知识和操作技能及不同类型菜肴的工艺流程。 基础理论知识主要包括：西餐烹饪发展史、西餐厨房、西餐特殊原料知识、各类菜品的制作工…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.icourse163.org&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2284",
+          "title": "Shaw English Online - YouTube",
+          "href": "https://www.youtube.com/@ShawEnglishOnline/featured",
+          "description": "My name is Robin Shaw. I have been an English teacher for 25 years. I started this channel…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2283",
+          "title": "English with Emma · engVid - YouTube",
+          "href": "https://www.youtube.com/@engvidEmma/videos",
+          "description": "Hi, my name is Emma, and I'm going to teach you English! Learning a different language can…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2282",
+          "title": "中国大学MOOC_优质在线课程学习平台",
+          "href": "https://www.icourse163.org/",
+          "description": "中国大学MOOC(慕课) 是爱课程网携手网易云课堂打造的在线学习平台，每一个有提升愿望的人，都可以在这里学习中国优质的大学课程，学完还能获得认证证书。中国大学MOOC是国内优质的中…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.icourse163.org&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2281",
+          "title": "Audiobookshelf",
+          "href": "http://192.168.1.10:13378/audiobookshelf/library/4397dcef-e6ed-4644-9358-e4217e791e33",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=192.168.1.10:13378&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2280",
+          "title": "BBC Learning English - YouTube",
+          "href": "https://www.youtube.com/@bbclearningenglish/playlists",
+          "description": "Learn English with the BBC. We publish new videos, shorts, podcasts, tutorials and lessons…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2279",
+          "title": "線上課程 - 自由安排時間，學習您想瞭解的知識 | Udemy",
+          "href": "https://www.udemy.com/",
+          "description": "Learn in-demand skills with online courses, get professional certificates that advance you…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.udemy.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "26_2278",
+          "title": "仪表板 | 可汗学院",
+          "href": "https://zh.khanacademy.org/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=zh.khanacademy.org&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "45",
+      "title": "40 Audio",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Audio」（1 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "45_2554",
+          "title": "有声小说,听书,听小说,听故事,听广播 - 喜马拉雅",
+          "href": "https://www.ximalaya.com/",
+          "description": "国内专业音频分享平台，随时随地，听我想听！4亿用户选择的在线音频平台。马东、郭德纲、吴晓波等20多万大咖入驻，1亿多条原创有声内容覆盖有声书、儿童、相声评书、财经新闻、音乐等328…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.ximalaya.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "48",
+      "title": "40 LearningCourse",
+      "icon": "",
+      "description": "來自 Linkwarden「40 LearningCourse」（3 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "48_2610",
+          "title": "发现好声音 喜马拉雅-随时随地听我想听,在线听小说 音乐-喜马拉雅官电台",
+          "href": "http://www.ximalaya.com/explore/",
+          "description": "国内专业音频分享平台，随时随地，听我想听！4亿用户选择的在线音频平台。马东、郭德纲、吴晓波等20多万大咖入驻，1亿多条原创有声内容覆盖有声书、儿童、相声评书、财经新闻、音乐等328…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.ximalaya.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "48_2609",
+          "title": "国家中小学网络云平台（云课堂）- 免费无广告 - YouTube",
+          "href": "https://www.youtube.com/channel/UCXHVnQUwbjfaBU7UwKb6OZw/playlists",
+          "description": "国家中小学网络云平台2020年2月正式开通，是教育部为统筹做好学期教育教学和新冠肺炎疫情防控工作，提供优质学习资源，服务学生学习，供自主选择使用的平台。网址：ykt.eduyun.…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "48_2608",
+          "title": "中国大学MOOC-慕课 - YouTube",
+          "href": "https://www.youtube.com/@mooc-/playlists",
+          "description": "好的大学，没有围墙让每一个有提升愿望的用户能够学到中国知名高校的课程",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "18",
+      "title": "40 Cooking",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Cooking」（1 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "18_2249",
+          "title": "Stock Images, Royalty-Free Images, Illustr…",
+          "href": "https://www.istockphoto.com/",
+          "description": "iStock. Explore the official iStock website for millions of exclusive, royalty-free, stock…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.istockphoto.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "17",
+      "title": "40 FirstAid",
+      "icon": "",
+      "description": "來自 Linkwarden「40 FirstAid」（5 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "17_2248",
+          "title": "可孚生理性盐水小支医用敷脸消炎祛痘次抛剖腹产伤口氯化钠清洗液-tmall.com天猫",
+          "href": "https://detail.tmall.com/item.htm?from=cart&id=828064251635&pisk=fqmqFUY8anKVYct1f-raLsuUe1qYcoAB_cN_IADghSVDMEUgI7kHHST9kfursbUbiILYSRVriGajbAIaIAc9H59vPxHYXlABOl-IHxHY8dwS0-DuZYehm-0jsVNQXlAB_asgkHrtO7O6s-buE7eaIi4isuDuK-rgnP4DU72apNfmsfDkURwas1jgizVuIJZGsPjiEa2LCZ20ISjkURFusbstnAjzdrvIwBUE197U7WD0iAMsqgzFkYPPs1orzPNHA7SGj0yqeJjK4M8_t2FbRWckVirZERlzRqRF0fkipV4rbsvjtb0Zs83J_NPESxgKVz6GoYoagym0ztJYVu2isPuJTMw4c4zE0qpOZxcQg2qxC9RjUyuzJ84lQZqjRviT-mxV97aLQbzIuBSqtg7P68DsHc3VsNz0e8PBUL80RQDt_1mWrNQTrkezOKwfWNU0e8PBUL7OWzV8UW9bh&skuId=5559239645299&spm=a1z0d.6639537%2F202406.item.d828064251635.21b07484nxNG1M",
+          "description": "taobao.com",
+          "icon": "https://www.google.com/s2/favicons?domain=detail.tmall.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "17_2247",
+          "title": "成績查詢 - 澳門紅十字會",
+          "href": "https://www.redcross.org.mo/school_result.php",
+          "description": "成績查詢 - 澳門紅十字會",
+          "icon": "https://www.google.com/s2/favicons?domain=www.redcross.org.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "17_2246",
+          "title": "扭伤的预防与处置",
+          "href": "https://mp.weixin.qq.com/s?__biz=MzU2NTE2ODA5NA==&mid=2247493465&idx=1&sn=724f76e9a177ec7d71aa4c553e033c91&chksm=fcbd75e8cbcafcfe714f057a25a366a4b897243c10b2a79e305603b0d226d2f73e469f0b475d&exptype=unsubscribed_card_recommend_article_u2i_mainprocess_coarse_sort_tlfeeds&ranksessionid=1729301864_2&scene=169&subscene=200&sessionid=1729301863&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=7432307-zh_CN-zip&fasttmpl_flag=0&realreporttime=1729302165397&clicktime=1729302165&enterid=1729302165#rd",
+          "description": "扭伤的预防与处置",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "17_2245",
+          "title": "日常急救：成人发烧如何处理",
+          "href": "https://mp.weixin.qq.com/s?__biz=Mzk0NzY2Njg2Nw==&mid=2247492210&idx=2&sn=9455662c1a480f1534d0c42ac87960fe&chksm=c29116632015c3a428eba238c0036fd93bfbcc20ab3ac4add94f5979aaa719d8b4d2c896911e&xtrack=1&scene=90&subscene=93&sessionid=1729266910&flutter_pos=35&clicktime=1729267268&enterid=1729267268&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=7432307-zh_CN-zip&fasttmpl_flag=0&realreporttime=1729267268441&devicetype=android-34&version=28003342&nettype=ctm-mobile&abtest_cookie=AAACAA%3D%3D&lang=zh_HK&session_us=gh_99447d586ac7&countrycode=CN&exportkey=n_ChQIAhIQFbwG3LQPvni35jO3cm4L1hLxAQIE97dBBAEAAAAAANivAIzkjogAAAAOpnltbLcz9gKNyK89dVj0JvQoiaa8RSGHOVtT%2B0iEmXnyRX%2BFnaXpoah%2FINyxxfisCpXmg7DBvVh9LUTeg25xjf6140z0yAm1wJFRtHXM6MNLSUuc30vmm0LGXIpElGgpZPTZUZg81%2B5FvGWJO2%2FR62ULlkQre%2FB5vkdlb5mIuPF4HhYkTIK8EUY5yS0dpY6s%2BNbNbfNIae6Rym2hcnEbt8XCI9XqGbiOUSkupak8ULGeVKJAPCMZAz6v5gaCuAUfw9bLk6rh%2BYhYL6LJrIJ3Bwv%2FYcHvGTEY8UU%3D&pass_ticket=xMtxgMoP1%2Bmq8%2BZhYf0gd%2Fo%2B0TsQKhue%2FS2sSBB4L0ASCVoiB7xOyc20rLM6Dy1n&wx_header=3",
+          "description": "日常急救：成人发烧如何处理",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "17_2244",
+          "title": "可孚生理性盐水小支医用敷脸消炎祛痘次抛剖腹产伤口氯化钠清洗液-tmall.com天猫",
+          "href": "https://detail.tmall.com/item.htm?from=cart&id=828064251635&pisk=fbaqFLj-UZQ28r_65juZTKrEwd0x-qXCQPMss5ViGxDcHinisYPhMxsODRrzI8njntIxjfDznFib75LZs52OMA1AVSFxWVXCdV7QMSFxY1G7uf0oq7h6iAqbIlMIWVXCQ3TiDwuTdY66njxoZYhZsEmgI4Votjuiic0GaYcZ9hv0IRVlafGZIdYin0DosXgMIcYgZ3cK1ncmsxYlafHoIbTUi5YrOmfQe9nUCeSobvVmn5N_rLoeD7DPuZ4z4cMhRY8MSzl4wXYLzeSsKkHjAv2lPEuaZfyrAoWeuRPg9lmz7KfbK8qaIbERQhkUjSZLP0OMm7zZ3D4m4I5xP4cgIcrRLeGqluoUuoC9ES2I3k0Y1BWbaDrrvbmk_n0bAWatxrb2pYiK_8oQ0984KgzyBbV_MPE2IhomwbkCa_SmATVTQd45qhKtq2hrdsGXXhnmwbkCa_-9X0D-av1jG&skuId=5559239645298&spm=a1z0d.6639537%2F202406.item.d828064251635.21b07484nxNG1M",
+          "description": "taobao.com",
+          "icon": "https://www.google.com/s2/favicons?domain=detail.tmall.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "19",
+      "title": "40 LearningOS+Docker",
+      "icon": "",
+      "description": "來自 Linkwarden「40 LearningOS+Docker」（11 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "19_2260",
+          "title": "CasaOS安装教程 | All-in-One 搞基手册",
+          "href": "https://allinone.quickso.cn/docs/install/Casaos/",
+          "description": "CasaOS是一个基于Docker生态系统的开源家庭云系统，专为家庭场景而设计。致力于打造全球最简单、最易用、最优雅的家居云系统。",
+          "icon": "https://www.google.com/s2/favicons?domain=allinone.quickso.cn&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2259",
+          "title": "Flatpak—the future of application distribu…",
+          "href": "https://flatpak.org/setup/Ubuntu",
+          "description": "Follow the steps for your Linux distribution to install Flatpak, add the Flathub repositor…",
+          "icon": "https://www.google.com/s2/favicons?domain=flatpak.org&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2258",
+          "title": "Obsidian - Sharpen your thinking",
+          "href": "https://obsidian.md/",
+          "description": "The free and flexible app for your private thoughts.",
+          "icon": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2257",
+          "title": "SynoCommunity",
+          "href": "https://synocommunity.com/packages",
+          "description": "Community Packages for Synology NAS",
+          "icon": "https://www.google.com/s2/favicons?domain=synocommunity.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2256",
+          "title": "Marius Hosting – Trustworthy expert guide…",
+          "href": "https://mariushosting.com/",
+          "description": "Step by step guide to your Synology and UGREEN NAS. Trustworthy expert guide to your Synol…",
+          "icon": "https://www.google.com/s2/favicons?domain=mariushosting.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2255",
+          "title": "Windows Ubuntu Operating System – Wubuntu",
+          "href": "https://wubuntu.org/",
+          "description": "Winux is the familiar OS successor for people who want to keep their current PC and move o…",
+          "icon": "https://www.google.com/s2/favicons?domain=wubuntu.org&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2254",
+          "title": "Logseq Community Hub",
+          "href": "https://hub.logseq.com/",
+          "description": "Logseq Community Hub",
+          "icon": "https://www.google.com/s2/favicons?domain=hub.logseq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2253",
+          "title": "PortableApps.com - Portable software for U…",
+          "href": "https://portableapps.com/",
+          "description": "PortableApps.com - Portable software for USB, portable, and cloud drives",
+          "icon": "https://www.google.com/s2/favicons?domain=portableapps.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2252",
+          "title": "开始使用 | Zimaspace Docs",
+          "href": "https://www.zimaspace.com/docs/zh/zimaos/Get-Started",
+          "description": "在电脑或手机上安装 ZimaClient，创建 ZimaOS 账户，选择语言并完成初始设置。支持 Windows、macOS、iOS 和 Android。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.zimaspace.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2251",
+          "title": "普羅克斯維",
+          "href": "https://pve.proxmox.com/wiki/Main_Page",
+          "description": "普羅克斯維",
+          "icon": "https://www.google.com/s2/favicons?domain=pve.proxmox.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "19_2250",
+          "title": "virtualize everything - YouTube",
+          "href": "https://www.youtube.com/@virtualizeeverything",
+          "description": "Share your videos with friends, family, and the world",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "49",
+      "title": "40 LearningEnglish",
+      "icon": "",
+      "description": "來自 Linkwarden「40 LearningEnglish」（10 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "49_2620",
+          "title": "肯德拉語言學校 - YouTube",
+          "href": "https://www.youtube.com/channel/UCTYQzAi6YOcgv2mkzsfzmpA",
+          "description": "We believe that languages can bring possibilities and happiness to your life. For this rea…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2619",
+          "title": "English Professionally - phrasal verbs in…",
+          "href": "https://www.youtube.com/c/EnglishProfessionally",
+          "description": "We learn English grammar lessons for beginners (full course) and other levels (elementary,…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2618",
+          "title": "English Speaking Class - YouTube",
+          "href": "https://www.youtube.com/@EnglishSpeakingClass740",
+          "description": "Welcome to \"English Speaking Class” !Recognizing the growing significance of English in to…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2617",
+          "title": "English Unleashed: The Podcast - YouTube",
+          "href": "https://www.youtube.com/@EnglishPodcastUnleashed",
+          "description": "Welcome to English Unleashed: The Podcast.We are a group of language educators and researc…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2616",
+          "title": "The Art of Improvement - YouTube",
+          "href": "https://www.youtube.com/c/TheArtofImprovement",
+          "description": "Premium self-improvement content on psychology, productivity, and mindset. The Art of Impr…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2615",
+          "title": "Daily English Conversation - YouTube",
+          "href": "https://www.youtube.com/c/DailyEnglishConversationTV",
+          "description": "Daily English Conversation is a free Channel for English learners. We study how to learn E…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2614",
+          "title": "終身學外語 - YouTube",
+          "href": "https://www.youtube.com/@practicemakesfluent/videos",
+          "description": "On this channel, you'll find a variety of content centered around basic English conversati…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2613",
+          "title": "从零开始学英语 - YouTube",
+          "href": "https://www.youtube.com/@Speak-English",
+          "description": "👋 欢迎来到从零开始学英语！这是一个专为“零基础”和“成人英语自学”打造的实用美语频道。您是否因为单词量少而不敢开口？是否觉得学英语太难、太枯燥？ 在这里，我们拒绝死记硬背，只教你…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2612",
+          "title": "強效英文 Powerful English - YouTube",
+          "href": "https://www.youtube.com/channel/UCtL8ERlEprymslmnHPcWNnw",
+          "description": "Welcome to Powerful English.Here you can learn English in a fun and efficient way.Learning…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "49_2611",
+          "title": "English Speaking Course - YouTube",
+          "href": "https://www.youtube.com/c/EnglishSpeakingCourses",
+          "description": "Welcome to English Speaking Course Channel!Our Channel is created with the aim of helping…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "82",
+      "title": "40 頻道書籤",
+      "icon": "",
+      "description": "來自 Linkwarden「40 頻道書籤」（6 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "82_2651",
+          "title": "Easy English Conversations - YouTube",
+          "href": "https://www.youtube.com/playlist?list=PLcetZ6gSk96-XmVQ1xpU3ziEtQvczLpJt",
+          "description": "Learn simple - and very useful - useful English questions, answers, words and grammar with…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "82_2559",
+          "title": "书福 - YouTube",
+          "href": "https://www.youtube.com/@readingforluck",
+          "description": "🌻🌻 Reading for Luck 🌻🌻☕️ Buy Me a Coffee ：paypal.me/readingforluck",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "82_2558",
+          "title": "一本書的10分鐘 (10 Minutes, One Book) - YouTube",
+          "href": "https://www.youtube.com/@10minutesonebook",
+          "description": "🎥 一本書的10分鐘｜用十分鐘，讀懂一本書。在這裡，我們用精練的方式，每集花10分鐘，帶你快速掌握一本書的精華內容。不管你是沒時間閱讀的上班族，還是想擴展知識的學生，這個頻道都是你…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "82_2557",
+          "title": "風傳媒 The Storm Media - YouTube",
+          "href": "https://www.youtube.com/channel/UCwWXGnvVmi-6Sfx2wf8S8tQ",
+          "description": "風傳媒是提供最多元資訊的媒體平台，喜歡我們的影音內容就『訂閱』風傳媒吧！📢加入Youtube專屬會員👉下班喝一杯啤酒 每月$75👉下班喝一杯清酒 每月$150👉下班喝一杯紅酒 每月…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "82_2556",
+          "title": "English Speaking Class - YouTube",
+          "href": "https://www.youtube.com/@englishspeakingclass740",
+          "description": "Welcome to \"English Speaking Class” !Recognizing the growing significance of English in to…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "82_2555",
+          "title": "每日聽書 Daily Audiobooks - YouTube",
+          "href": "https://www.youtube.com/@audiobookfree",
+          "description": "🔥 訂閱我們，加入會員，丰富内心，增长智慧， 每日听书，万籁有声！大家好！这里是【每日听书 Daily Audiobooks】频道。我们会定期更新，希望可以帮助你丰富内心，增长智慧…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "81",
+      "title": "40 Reference",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Reference」（6 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "81_2430",
+          "title": "Home Bookmarks - WorkFlowy",
+          "href": "https://workflowy.com/#/9b8dacc510e4",
+          "description": "If you have a crazy job or an ambitious project, we will be your trusty sidekick. Workflow…",
+          "icon": "https://www.google.com/s2/favicons?domain=workflowy.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "81_2425",
+          "title": "一图讲清什么是6S管理",
+          "href": "https://mp.weixin.qq.com/s/KzAQecD2pRd3rh29z3ntZA",
+          "description": "① 🔄【6S架构】6S与5S的关系+第六个S的重要性\\x0a② 🛡【安全管理】生产现场安全管理的6个核心要素\\x0a③ 📋【安全检查】6S安全检查清单的制定方法\\x0a④ ⚠️【隐…",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "81_2424",
+          "title": "一图了解家用配电箱。",
+          "href": "https://mp.weixin.qq.com/s/CpSmTX_LImoD0fUvkW1UNg",
+          "description": "家用配电箱最全讲解来了❗️ 看似一个小箱子，藏着全屋用电的大讲究 标准家用配电箱配置： 总开关控全屋，漏保守护人身安全 照明、普通插座、厨房、空调、厨卫独立回路 各司其职，互不干扰…",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "81_2423",
+          "title": "Z-Library - Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Z-Library",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "81_128",
+          "title": "网络工程师必看的工具清单",
+          "href": "https://mp.weixin.qq.com/s/J1ZoROmjSFiidK6lQoKQhQ",
+          "description": "\\x26lt;a class=\\x26quot;wx_topic_link\\x26quot; topic-id=\\x26quot;moylc0mt-brp4pb\\x26quot;…",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "81_127",
+          "title": "mp.weixin.qq.com/s?chksm=c5ebd2a3f29c5bb5e…",
+          "href": "https://mp.weixin.qq.com/s?chksm=c5ebd2a3f29c5bb5e2c78bf6c3d607e57e4658afb003dbf0fa2833121ceece60f54bb683a32a&exptype=unsubscribed_card_recommend_item_heat_tlfeeds&ranksessionid=1778201119_2&req_id=1778201119903485&mid=2247485011&sn=e30690d3d97d9a8449ba003d38b3d108&idx=1&__biz=Mzk5MDE4NDg2Mw%3D%3D&scene=169&subscene=200&sessionid=1778200720&flutter_pos=37&clicktime=1778201338&enterid=1778201338&finder_biz_enter_id=5&jumppath=10011_1778201234182%2C50094_1778201278792%2C10011_1778201281185%2C50094_1778201335465&jumppathdepth=4&ascene=56&fasttmpl_type=0&fasttmpl_fullversion=8247274-zh_CN-zip&fasttmpl_flag=0&realreporttime=1778201338537&devicetype=android-35&version=2800455a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_HK&session_us=gh_c65cf974cf31&countrycode=CN&exportkey=n_ChQIAhIQLp9VXSWbNstC%2BDmvFmNFXRLxAQIE97dBBAEAAAAAADDpMZt34YIAAAAOpnltbLcz9gKNyK89dVj0N4rpORk9dTGKqT614Pao6frMGkfVMXied7egkin3JqfN%2FfQWa8zlvihH9%2F8ffVJjCJahs3zX3kmbv5WrcuQANw6XLL4IgH9gA7dlB%2BoNvBFRGpC8Hi5fwNwrA0sxUyKSdLGuxZZhHCu2o8WIv770XVGiC5vkQ5KI51UIm2Y75vbX4Z5GbNIN%2BS%2BuP0iG0CRJkr8pD3U5PQu9VEMfRMrF%2BzCmImfhk0G2yTRjjKaCDLgkiOX6UxcG%2BWwxypksoIml%2B7yMFk1eDhgwMB0%3D&pass_ticket=9VuXetNt6OOqCpm7WGGSDRZEm88PWmY82jAQl3hnC6DCokJHZHdl6JfRqlED5Vv5&wx_header=3",
+          "description": "🔍 为什么要做「外网磁盘映射」？平时在公司传大文件靠U盘？在家想访问NAS里的设计稿/报表还得连VPN？",
+          "icon": "https://www.google.com/s2/favicons?domain=mp.weixin.qq.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "6",
+      "title": "40 Shopping",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Shopping」（10 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "6_2553",
+          "title": "闲鱼 - 闲不住？上闲鱼！",
+          "href": "https://www.goofish.com/",
+          "description": "闲鱼，中国领先的闲置二手交易平台，趣味生活社区，从最初的C2C交易，到用户在这里分享技能、兴趣与经验，从物品到服务、从交易到交流，如今闲鱼累计用户数超5亿，日均交易额已突破10亿，…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.goofish.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_2552",
+          "title": "eBuy.mo",
+          "href": "https://ebuy.mo/",
+          "description": "專業網購服務：網購代收，免費代購，本地交收，倉儲代發，集運送貨，傢俬安裝，24H智能櫃，寄物暫存，代寄快遞等連鎖一站式服務。",
+          "icon": "https://www.google.com/s2/favicons?domain=ebuy.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_2551",
+          "title": "淘宝",
+          "href": "https://www.taobao.com/",
+          "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.taobao.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_2550",
+          "title": "京东港澳版-专业的综合网上购物商城",
+          "href": "https://hk.jd.com/",
+          "description": "京东港澳版-专业的综合网上购物商城，为您提供正品低价的购物选择、优质便捷的服务体验。商品来自全球数十万品牌商家，囊括家电、手机、计算机、服装、居家、母婴、美妆、个护、食品等丰富品类…",
+          "icon": "https://www.google.com/s2/favicons?domain=hk.jd.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_2549",
+          "title": "Fortress豐澤 - 香港專業大型電器官方網站",
+          "href": "https://www.fortress.com.hk/zh-hk/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.fortress.com.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_153",
+          "title": "淘宝",
+          "href": "https://www.taobao.com/",
+          "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.taobao.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_152",
+          "title": "闲鱼 - 闲不住？上闲鱼！",
+          "href": "https://www.goofish.com/",
+          "description": "闲鱼，中国领先的闲置二手交易平台，趣味生活社区，从最初的C2C交易，到用户在这里分享技能、兴趣与经验，从物品到服务、从交易到交流，如今闲鱼累计用户数超5亿，日均交易额已突破10亿，…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.goofish.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_151",
+          "title": "eBuy.mo",
+          "href": "https://ebuy.mo/",
+          "description": "專業網購服務：網購代收，免費代購，本地交收，倉儲代發，集運送貨，傢俬安裝，24H智能櫃，寄物暫存，代寄快遞等連鎖一站式服務。",
+          "icon": "https://www.google.com/s2/favicons?domain=ebuy.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_150",
+          "title": "京东港澳版-专业的综合网上购物商城",
+          "href": "https://hk.jd.com/",
+          "description": "京东港澳版-专业的综合网上购物商城，为您提供正品低价的购物选择、优质便捷的服务体验。商品来自全球数十万品牌商家，囊括家电、手机、计算机、服装、居家、母婴、美妆、个护、食品等丰富品类…",
+          "icon": "https://www.google.com/s2/favicons?domain=hk.jd.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "6_149",
+          "title": "Fortress豐澤 - 香港專業大型電器官方網站",
+          "href": "https://www.fortress.com.hk/zh-hk/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.fortress.com.hk&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "34",
+      "title": "40 Work",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Work」（13 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "34_2467",
+          "title": "首頁 | 澳門旅遊大學",
+          "href": "https://www.utm.edu.mo/zh-CHT",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.utm.edu.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2466",
+          "title": "Mon cher",
+          "href": "https://www.mon-cher.com.hk/hk/products/mothers-day",
+          "description": "Mon cher於 2003年在日本大阪堂島創立，憑售賣皇牌產品「大阪堂島卷Osaka Dojima Roll」而享負盛名。大阪堂島卷特選由北海道農場空運直送的牛乳製成專屬的生忌廉…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.mon-cher.com.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2465",
+          "title": "RNP5838796C9D26 - Web Image Monitor",
+          "href": "https://192.168.19.112/web/entry/tw/websys/webArch/mainFrame.cgi",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=192.168.19.112&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2464",
+          "title": "安娜 - 歌莉食品",
+          "href": "https://callistafoods.com/tc/brand/senhorita-ana/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=callistafoods.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2463",
+          "title": "澳門聖安娜餅屋",
+          "href": "https://www.sthonore.com/ma/tc/locations",
+          "description": "於澳門聖安娜餅屋，輕鬆網上訂購美味的蛋糕、西餅、甜品和派對食品。適合生日、慶祝活動及日常享用。提供豐富選擇，享受便捷的網購店取及送貨服務。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.sthonore.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2462",
+          "title": "Stock Images, Royalty-Free Images, Illustr…",
+          "href": "https://www.istockphoto.com/",
+          "description": "iStock. Explore the official iStock website for millions of exclusive, royalty-free, stock…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.istockphoto.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2461",
+          "title": "食品安全資訊 - 食品添加劑",
+          "href": "https://www.iam.gov.mo/foodsafety/c/foodsafetystandardonlinedb/table?AspxAutoDetectCookieSupport=1",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.iam.gov.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2460",
+          "title": "OREOの甜食町 - YouTube",
+          "href": "https://www.youtube.com/@oreomachi",
+          "description": "Hi! 我是OREO這裡會分享我做過的任何甜點食譜&流程，喜歡自己做甜點的樂趣！有任何作甜點的相關疑問都可以留言給我哦~影片皆為辛苦創作，未經同意嚴禁轉載！Facebook：ORE…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2459",
+          "title": "CAKE HI. (INS ' の 美食誌) - YouTube",
+          "href": "https://www.youtube.com/@cakehi.2089",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2458",
+          "title": "學滿FUN",
+          "href": "https://elearning.cra.hk/app/course/detail/157862684_157829595?tkhId=307114",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=elearning.cra.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2457",
+          "title": "澳門聖安娜餅屋 - 蛋糕 | 麵包 | 甜品",
+          "href": "https://www.sthonore.com/ma/tc/",
+          "description": "於澳門聖安娜餅屋，輕鬆網上訂購美味的蛋糕、西餅、甜品和派對食品。適合生日、慶祝活動及日常享用。提供豐富選擇，享受便捷的網購店取及送貨服務。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.sthonore.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_2243",
+          "title": "Outlook",
+          "href": "https://onwma.cra.hk/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fonwma.cra.hk%2fowa%2f",
+          "description": "michaelcheong@sthonore.com -",
+          "icon": "https://www.google.com/s2/favicons?domain=onwma.cra.hk&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "34_158",
+          "title": "moontv - Overview – Vercel",
+          "href": "https://vercel.com/michaelcheongs-projects/moontv",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=vercel.com&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "58",
+      "title": "40 Supplier",
+      "icon": "",
+      "description": "來自 Linkwarden「40 Supplier」（1 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "58_2654",
+          "title": "AS-3</br>掀門式洗碗機-卓匯股份有限公司-商用洗碗機,台北商用洗碗機",
+          "href": "https://www.taiwanchampion.com.tw/products/info.php?id=55818&title_id=#page",
+          "description": "商用洗碗機,台北商用洗碗機,大安區商用洗碗機,信義區商用洗碗機,中山區商用洗碗機,商用洗碗機推薦,台北商用洗碗機推薦,大安區商用洗碗機推薦,信義區商用洗碗機推薦,中山區商用洗碗機推…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.taiwanchampion.com.tw&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "36",
+      "title": "40 新聞·Gov",
+      "icon": "",
+      "description": "來自 Linkwarden「40 新聞·Gov」（7 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "36_2474",
+          "title": "數位時代 BusinessNext|台灣最具影響力的科技財經媒體",
+          "href": "https://www.bnext.com.tw/?",
+          "description": "長期聚焦於全球、台灣與中國等地最新的科技、網路、創業、數位行銷等議題的動態及趨勢。受到企業領袖與新世代菁英的喜愛，更引領台灣社會對「新商業」的關注與討論。",
+          "icon": "https://www.google.com/s2/favicons?domain=www.bnext.com.tw&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2473",
+          "title": "SMG - 澳門特別行政區政府地球物理氣象局",
+          "href": "https://www.smg.gov.mo/zh",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.smg.gov.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2472",
+          "title": "觀察清單 - Google 財經",
+          "href": "https://www.google.com/finance/portfolio/watchlist",
+          "description": "Google Finance provides real-time market quotes, international stock information, financia…",
+          "icon": "https://www.google.com/s2/favicons?domain=www.google.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2471",
+          "title": "NewsNow | 最热",
+          "href": "https://newsnow.busiyi.world/",
+          "description": "NewsNow - 实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验",
+          "icon": "https://www.google.com/s2/favicons?domain=newsnow.busiyi.world&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2470",
+          "title": "Today / Me",
+          "href": "https://feedly.com/i/my/me",
+          "description": "Welcome to Feedly — the platform where businesses and curious minds stay ahead of the curv…",
+          "icon": "https://www.google.com/s2/favicons?domain=feedly.com&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2469",
+          "title": "巴士報站",
+          "href": "https://bis.dsat.gov.mo:37812/macauweb/index.html?language=zh-tw&fromDzzp=undefined",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=bis.dsat.gov.mo:37812&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "36_2468",
+          "title": "YumCheck - 您的食品配料表健康助手",
+          "href": "https://yumcheck.online/zh",
+          "description": "使用 YumCheck 扫描并分析食品配料表，了解成分对健康的影响，助您做出更明智的饮食选择。",
+          "icon": "https://www.google.com/s2/favicons?domain=yumcheck.online&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "31",
+      "title": "Macau",
+      "icon": "",
+      "description": "來自 Linkwarden「Macau」（4 條）",
+      "enabled": true,
+      "items": [
+        {
+          "id": "31_2429",
+          "title": "DSAT - 澳門特別行政區 交通事務局",
+          "href": "https://www.dsat.gov.mo/dsat/realtime.aspx",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.dsat.gov.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "31_2428",
+          "title": "澳門特別行政區政府入口網站 – 澳門特別行政區政府入口網站",
+          "href": "https://www.gov.mo/zh-hant/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.gov.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "31_2427",
+          "title": "房屋局 Instituto de Habitação",
+          "href": "https://www.ihm.gov.mo/zh",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=www.ihm.gov.mo&sz=64",
+          "enabled": true
+        },
+        {
+          "id": "31_2426",
+          "title": "澳門消費者委員會",
+          "href": "https://www.consumer.gov.mo/commodity/price_station.aspx?lang=zh",
+          "description": "澳門消費者委員會 - DSEDT",
+          "icon": "https://www.google.com/s2/favicons?domain=www.consumer.gov.mo&sz=64",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
     }
   ]
 }
